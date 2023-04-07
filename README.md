@@ -1,2 +1,2 @@
-# juego-peligros-en-internet
+# Peligros en Internet
 Videojuego creado por Milena Sol Alvarez
